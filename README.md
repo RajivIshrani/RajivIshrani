@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajivIshrani
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++ .
-- 💞️ I’m looking to collaborate on C++ Open Source Project.
+- 🌱 I’m currently learning Java .
+- 💞️ I’m looking to collaborate on Java Open Source Project.
 - 📫 How to reach me rajivishrani@gmail.com
 
 <!---

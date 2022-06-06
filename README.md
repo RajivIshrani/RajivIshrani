@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajivIshrani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java .
-- 💞️ I’m looking to collaborate on Java Open Source Project.
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently learning Solidity .
+- 💞️ I’m looking to collaborate on Web3.0 Projects.
 - 📫 How to reach me rajivishrani@gmail.com
 
 <!---

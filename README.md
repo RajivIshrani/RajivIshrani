@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://www.edureka.co/blog/wp-content/uploads/2018/01/Blockchain-Blockchain-Technology-Edureka.gif" />
-</p>
+</p> -->
 <h1 align="center">Hi 👋, I'm Rajiv Ishrani</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 

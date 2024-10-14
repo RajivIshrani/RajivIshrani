@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajivishrani&label=Profile%20views&color=0e75b6&style=flat" alt="rajivishrani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rjishrani" target="blank"><img src="https://img.shields.io/twitter/follow/rjishrani?logo=twitter&style=for-the-badge" alt="rjishrani" /></a> </p>
+<p align="left"> <a href="https://x.com/RajivIshrani" target="blank"><img src="https://img.shields.io/twitter/follow/rjishrani?logo=twitter&style=for-the-badge" alt="RajivIshrani" /></a> </p>
 
 - 🔭 I’m currently working on **Lottery-dApp**
 

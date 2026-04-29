@@ -1,15 +1,22 @@
 # Hi 👋, I'm Rajiv Ishrani
-### Tech + Compliance | ISO 27001 • GDPR • GRC
+### ISO 27001 • GDPR • GRC | Tech-driven compliance | Building secure, audit-ready systems
 
 ---
 
 ## 🚀 About Me
-- 🔭 Working on **security-focused systems and compliance-driven solutions**
-- 🌱 Currently learning and implementing **ISO/IEC 27001:2022 (ISMS)** and **GDPR frameworks**
+- 🔭 Building **security-focused and compliance-driven systems**
+- 🛡️ Working with **ISO/IEC 27001:2022 (ISMS)** and **GDPR frameworks**
 - 👨‍💻 Background in **Full-Stack Development and System Design**
-- 🎯 Transitioning into **Cybersecurity, Risk & Compliance (GRC)**
-- 💬 Ask me about **ISO 27001, GDPR, backend systems, and APIs**
+- 🔄 Transitioning into **Cybersecurity, Risk & Compliance (GRC) with a technical edge**
+- 💬 Ask me about **ISO 27001, GDPR, APIs, and system architecture**
 - 📫 Contact: **rajivishrani@gmail.com**
+
+---
+
+## 📁 Projects (ISO 27001 / GRC)
+- Built a sample ISMS for a small IT company (risk register, SoA, policies)
+- Conducted mock risk assessment and defined treatment plan
+- Created security policies aligned with ISO 27001 Annex A controls
 
 ---
 
@@ -25,24 +32,24 @@ https://rajivishrani.github.io/portfolio-rajiv/
 
 ---
 
-## 🔐 Security & Compliance (GRC Focus)
-- ISO/IEC 27001:2022 – ISMS implementation (learning + practical application)
+## 🔐 Security & Compliance (GRC)
+- ISO/IEC 27001:2022 – ISMS structure, controls, and implementation approach
 - Risk Assessment & Risk Treatment Planning
-- Security Policies & Documentation (SoA, policies, procedures)
-- GDPR Principles & Data Protection Practices
+- Statement of Applicability (SoA) & Security Documentation
+- GDPR fundamentals & data protection practices
 - Compliance Gap Analysis & Controls Mapping
 
 ---
 
 ## 🛠️ GRC & Security Tools
 - Documentation & ISMS: **Notion, Confluence, Google Workspace**
-- Risk & Compliance: **ISO 27001 Templates (Advisera / CertiKit), Excel Risk Registers**
+- Risk & Compliance: **ISO 27001 Toolkits (Advisera, CertiKit), Excel Risk Registers**
 - Ticketing & Workflow: **Jira, Trello**
 - Version Control: **Git, GitHub**
-- Cloud & Infra (for security context): **AWS (Basics), Linux**
+- Cloud & Infrastructure: **AWS (Foundations), Linux**
 - API & Testing: **Postman**
-- Monitoring & Logs (basic exposure): **CloudWatch, logging systems**
-- Dev Tools: **VS Code**
+- Monitoring & Logs: **CloudWatch (basic exposure), logging systems**
+- Development: **VS Code**
 
 ---
 
@@ -50,5 +57,5 @@ https://rajivishrani.github.io/portfolio-rajiv/
 - Languages: **JavaScript, TypeScript**
 - Backend: **Node.js, Express**
 - Frontend: **React**
-- Database: **PostgreSQL, MongoDB**
-- Architecture: **REST APIs, System Design Basics**
+- Databases: **PostgreSQL, MongoDB**
+- Systems: **REST APIs, system design, backend architecture**
